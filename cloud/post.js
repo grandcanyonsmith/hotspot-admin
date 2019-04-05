@@ -1,4 +1,4 @@
-const sharp = require('sharp')
+igconst sharp = require('sharp')
 const slug = require('limax')
 
 Parse.Cloud.beforeSave('Post', async (req) => {

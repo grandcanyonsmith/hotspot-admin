@@ -40,7 +40,7 @@ Read the full Parse Server guide here: https://github.com/ParsePlatform/parse-se
 
 * Clone the repo and change directory to it
 * Log in with the [AWS Elastic Beanstalk CLI](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html), select a region, and create an app: `eb init`
-* Create an environment and pass in MongoDB URI, App ID, and Master Key: `eb create --envvars DATABASE_URI=<replace with URI>,APP_ID=<replace with Parse app ID>,MASTER_KEY=<replace with Parse master key>`
+* Create an environment and pass in MongoDB URI, App ID, and Master Key: `eb create --envvars DATABASE_URI=mongodb://172.25.0.0/16:8103/parse,APP_ID=B1mjT61ZMr,MASTER_KEY=12345`
 
 ### Getting Started With Microsoft Azure App Service
 
