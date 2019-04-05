@@ -20,7 +20,7 @@ Read the full Parse Server guide here: https://github.com/ParsePlatform/parse-se
 
 #### With the Heroku Button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)  
 
 #### Without It
 
